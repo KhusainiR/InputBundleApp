@@ -1,0 +1,10 @@
+com/example/praktikum1/BuildConfig.java
+ com.example.praktikum1.BuildConfig
+com/example/praktikum1/MainActivity.java
+ com.example.praktikum1.MainActivity
+ com.example.praktikum1.MainActivity$1
+com/example/praktikum1/BiodataActivity.java
+ com.example.praktikum1.BiodataActivity
+com/example/praktikum1/FormActivity.java
+ com.example.praktikum1.FormActivity
+ com.example.praktikum1.FormActivity$1

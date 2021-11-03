@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Praktikum1">
         <activity android:name=".BiodataActivity"> </activity>
-        <activity android:name=".FormActivity" />
+        <activity android:name=".FormActivity" > </activity>
         <activity android:name=".MainActivity" android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
